@@ -43,6 +43,7 @@ Names and questions
 ====
 
 - Nathan Leiby - What is your favorite character from a book, play, movie, etc?
-- <person 2> - <question(s)>
+- Emily Rowe - Where do you fall in your family's birth order? How many children are in your family? Someone whose answers are 2 and 3 is the second of three children.
+- <person 3> - <question(s)>
 - ...
 
