@@ -27,7 +27,7 @@ or
 {
   "name1" : {
     "question_tag1": "answer1-1",
-    "question_tag2": "answer1-2",
+    "question_tag2": "answer1-2"
   },
   "name2" : {
     "question_tag1": "answer2-1",
