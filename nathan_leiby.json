@@ -1,45 +1,118 @@
 {
-	"Samrachana Adhikari":"",
+	"Samrachana Adhikari": {
+		"character":"The Little Prince",
+		"source":"The Little Prince",
+		"medium":"Book"
+		},
 	"Andres Akle Carranza":"",
 	"Scott Alfeld":"",
-	"Sophia Alice":"",
-	"Zahra Ashktorab":"",
+	"Sophia Alice":{
+		"character":"Yossarian",
+		"source":"Catch 22",
+		"medium":"Book"	
+		},
+	"Zahra Ashktorab":{
+		"character":"Michael Scott",
+		"source":"The Office",
+		"medium":"TV"	
+		},
 	"Jonathan Auerbach":"",
-	"Varoon Bashyakarla":"",
-	"Jordan Bates":"",
+	"Varoon Bashyakarla":{
+		"character":"Gogo",
+		"source":"Waiting for Godot",
+		"medium":"Play"	
+		},
+	"Jordan Bates":{
+		"character":"Malcolm X",
+		"source":"The Autobiography of Malcolm X",
+		"medium":"Play"	
+		},
 	"John Brock":"",
 	"Christopher Brown":"",
 	"Giorgio Cavaggion":"",
-	"Kyla Cheung":"",
+	"Kyla Cheung":{
+		"character":"Oscar Wao",
+		"source":"The Brief Wondrous Life of Oscar Wao",
+		"medium":"Play"	
+		},
 	"Walter Dempsey":"",
 	"Sarah Evans":"",
 	"Andrea Fernandez Conde":"",
-	"Adam Fishman":"",
-	"Jette Henderson":"",
-	"Kayla Jacobs":"",
-	"Kwang-Sung Jun":"",
+	"Adam Fishman":{
+		"character":"Winnie-the-Pooh",
+		"source":"Winnie-the-Pooh",
+		"medium":"Book"
+		},
+
+	"Jette Henderson":{
+		"character":"Laura Ingalls Wilder",
+		"source":"The Little House on the Prarie",
+		"medium":"Book"
+		},
+	"Kayla Jacobs":{
+		"character":"Meg",
+		"source":"A Wrinkle In Time",
+		"medium":"Book"
+		},
+	"Kwang-Sung Jun":{
+		"character":"Bonobono",
+		"source":"Bonobono",
+		"medium":"TV"
+		},
 	"Nathan Leiby":"",
-	"Allen Lin":"",
+	"Allen Lin":{
+		"character":"Frank McCourt",
+		"source":"Angela's Ashes",
+		"medium":"Book"
+		},
 	"Edward McFowland III":"",
 	"Paul Meinshausen":"",
 	"Breanna Miller":"",
 	"Evan Misshula":"",
 	"Jit Nandi":"",
 	"Ahmad Qamar":"",
-	"Emily Rowe":"",
-	"Nihar Shah":"",
+	"Emily Rowe":{
+		"character":"Sergeant Tibbs",
+		"source":"101 Dalmatians",
+		"medium":"Movie"
+		},
+	"Nihar Shah":{
+		"character":"Scar",
+		"source":"The Lion King",
+		"medium":"Movie"
+		},
 	"Camelia Simoiu":"",
-	"Sriram Somanchi":"",
+	"Sriram Somanchi":{
+		"character":"Legolas",
+		"source":"The Lord of the Rings",
+		"medium":"Book"
+		},
 	"Edward Su":"",
 	"Vidhur Vohra":"",
-	"Joseph Walsh":"",
-	"Skyler Whorton":"",
+	"Joseph Walsh":{
+		"character":"Forrest Gump",
+		"source":"Forrest Gump",
+		"medium":"Movie"
+		},
+	"Skyler Whorton":{
+		"character":"Inspector Javert",
+		"source":"Les Mis",
+		"medium":"Book"
+	},
 	"Min Xu":"",
 	"Virginia Carlson":"",
 	"Aron Culotta":"",
-	"Elena Eneva":"",
+	"Elena Eneva":{
+		"character":"Owen Meaney",
+		"source":"A Prayer for Owen Meany",
+		"medium":"Book"
+	},
 	"Nick Mader":"",
-	"Tom Plagge":"",
+	"Tom Plagge":{
+		"character":"Yossarian",
+		"source":"Catch 22",
+		"medium":"Book"	
+	},
 	"Brandon Willard":"",
 	"Michelangelo D'Agostino":"",
 	"Rayid Ghani":"",
