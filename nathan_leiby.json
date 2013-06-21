@@ -1,127 +1,207 @@
 {
-	"Samrachana Adhikari": {
-		"character":"The Little Prince",
-		"source":"The Little Prince",
-		"medium":"Book"
-		},
-	"Andres Akle Carranza":"",
-	"Scott Alfeld":"",
-	"Sophia Alice":{
-		"character":"Yossarian",
-		"source":"Catch 22",
-		"medium":"Book"	
-		},
-	"Zahra Ashktorab":{
-		"character":"Michael Scott",
-		"source":"The Office",
-		"medium":"TV"	
-		},
-	"Jonathan Auerbach":"",
-	"Varoon Bashyakarla":{
-		"character":"Gogo",
-		"source":"Waiting for Godot",
-		"medium":"Play"	
-		},
-	"Jordan Bates":{
-		"character":"Malcolm X",
-		"source":"The Autobiography of Malcolm X",
-		"medium":"Play"	
-		},
-	"John Brock":"",
-	"Christopher Brown":"",
-	"Giorgio Cavaggion":"",
-	"Kyla Cheung":{
-		"character":"Oscar Wao",
-		"source":"The Brief Wondrous Life of Oscar Wao",
-		"medium":"Play"	
-		},
-	"Walter Dempsey":"",
-	"Sarah Evans":"",
-	"Andrea Fernandez Conde":"",
-	"Adam Fishman":{
-		"character":"Winnie-the-Pooh",
-		"source":"Winnie-the-Pooh",
-		"medium":"Book"
-		},
-
-	"Jette Henderson":{
-		"character":"Laura Ingalls Wilder",
-		"source":"The Little House on the Prarie",
-		"medium":"Book"
-		},
-	"Kayla Jacobs":{
-		"character":"Meg",
-		"source":"A Wrinkle In Time",
-		"medium":"Book"
-		},
-	"Kwang-Sung Jun":{
-		"character":"Bonobono",
-		"source":"Bonobono",
-		"medium":"TV"
-		},
-	"Nathan Leiby":"",
-	"Allen Lin":{
-		"character":"Frank McCourt",
-		"source":"Angela's Ashes",
-		"medium":"Book"
-		},
-	"Edward McFowland III":"",
-	"Paul Meinshausen":"",
-	"Breanna Miller":"",
-	"Evan Misshula":"",
-	"Jit Nandi":"",
-	"Ahmad Qamar":"",
-	"Emily Rowe":{
-		"character":"Sergeant Tibbs",
-		"source":"101 Dalmatians",
-		"medium":"Movie"
-		},
-	"Nihar Shah":{
-		"character":"Scar",
-		"source":"The Lion King",
-		"medium":"Movie"
-		},
-	"Camelia Simoiu":"",
-	"Sriram Somanchi":{
-		"character":"Legolas",
-		"source":"The Lord of the Rings",
-		"medium":"Book"
-		},
-	"Edward Su":"",
-	"Vidhur Vohra":"",
-	"Joseph Walsh":{
-		"character":"Forrest Gump",
-		"source":"Forrest Gump",
-		"medium":"Movie"
-		},
-	"Skyler Whorton":{
-		"character":"Inspector Javert",
-		"source":"Les Mis",
-		"medium":"Book"
-	},
-	"Min Xu":"",
-	"Virginia Carlson":"",
-	"Aron Culotta":"",
-	"Elena Eneva":{
-		"character":"Owen Meaney",
-		"source":"A Prayer for Owen Meany",
-		"medium":"Book"
-	},
-	"Nick Mader":"",
-	"Tom Plagge":{
-		"character":"Yossarian",
-		"source":"Catch 22",
-		"medium":"Book"	
-	},
-	"Brandon Willard":"",
-	"Michelangelo D'Agostino":"",
-	"Rayid Ghani":"",
-	"Matt Gee":"",
-	"Juan-Pablo Velez":"",
-	"Kate Kusiak Galvin":"",
-	"Rob Mitchum":"",
-	"Charlie Catlett":"",
-	"Eric Schmidt":"",
-	"Jake Porway":"",
-	"Ian Foster":""
+  "Adam Fishman": {
+    "source": "Winnie-the-Pooh",
+    "medium": "Book",
+    "character": "Winnie-the-Pooh"
+  },
+  "Ahmad Qamar": "",
+  "Alessandro Panella": {
+    "source": "Arrested Development",
+    "medium": "TV",
+    "character": "Michael Bluth"
+  },
+  "Allen Lin": {
+    "source": "Angela's Ashes",
+    "medium": "Book",
+    "character": "Frank McCourt"
+  },
+  "Andrea Fernandez Conde": {
+    "source": "Mulan",
+    "medium": "Movie",
+    "character": "Mushu"
+  },
+  "Andres Akle Carranza": "",
+  "Aron Culotta": "",
+  "Brandon Willard": {
+    "source": "Sherlock Holmes and Star Trek the Next Generation",
+    "medium": "Book and TV",
+    "character": "Sherlock Holmes and Jean-Luc Picard"
+  },
+  "Breanna Miller": {
+    "source": "101 Dalmatians",
+    "medium": "Movie",
+    "character": "Lucky"
+  },
+  "Camelia Simoiu": {
+    "source": "Matilda",
+    "medium": "Book",
+    "character": "Matilda"
+  },
+  "Charlie Catlett": "",
+  "Christopher Brown": {
+    "source": "Oryx and Crake",
+    "medium": "Book",
+    "character": "Crake"
+  },
+  "Colm Bradley": {
+    "source": "Ed, Edd, and Eddy",
+    "medium": "TV",
+    "character": "Plank"
+  },
+  "David Sekora": {
+    "source": "Sherlock Holmes",
+    "medium": "Book",
+    "character": "Sherlock Holmes"
+  },
+  "Edward McFowland III": {
+    "source": "Ironman",
+    "medium": "Movie",
+    "character": "Tony Stark"
+  },
+  "Edward Su": "",
+  "Elena Eneva": {
+    "source": "A Prayer for Owen Meany",
+    "medium": "Book",
+    "character": "Owen Meaney"
+  },
+  "Emily Rowe": {
+    "source": "101 Dalmatians",
+    "medium": "Movie",
+    "character": "Sergeant Tibbs"
+  },
+  "Eric Schmidt": "",
+  "Evan Misshula": {
+    "source": "Time Enough for Love",
+    "medium": "Book",
+    "character": "Lazarus Long"
+  },
+  "Giorgio Cavaggion": "",
+  "Hunter Owens": {
+    "source": "Ender's Game",
+    "medium": "Book",
+    "character": "Ender"
+  },
+  "Ian Foster": "",
+  "Jake Porway": "",
+  "Jette Henderson": {
+    "source": "The Little House on the Prarie",
+    "medium": "Book",
+    "character": "Laura Ingalls Wilder"
+  },
+  "Jit Nandi": {
+    "source": "Silence of the Lambs",
+    "medium": "Movie and Book",
+    "character": "Hannibal Lector"
+  },
+  "John Brock": "",
+  "Jonathan Auerbach": "",
+  "Jordan Bates": {
+    "source": "The Autobiography of Malcolm X",
+    "medium": "Play",
+    "character": "Malcolm X"
+  },
+  "Jordan Freud": {
+    "source": "The Lord of the Rings",
+    "medium": "Movie and Book",
+    "character": "Gandalf"
+  },
+  "Joseph Walsh": {
+    "source": "Forrest Gump",
+    "medium": "Movie",
+    "character": "Forrest Gump"
+  },
+  "Juan-Pablo Velez": "",
+  "Kate Kusiak Galvin": "",
+  "Kayla Jacobs": {
+    "source": "A Wrinkle In Time",
+    "medium": "Book",
+    "character": "Meg"
+  },
+  "Kwang-Sung Jun": {
+    "source": "Bonobono",
+    "medium": "TV",
+    "character": "Bonobono"
+  },
+  "Kyla Cheung": {
+    "source": "The Brief Wondrous Life of Oscar Wao",
+    "medium": "Play",
+    "character": "Oscar Wao"
+  },
+  "Matt Gee": "",
+  "Michelangelo D'Agostino": "",
+  "Min Xu": "",
+  "Nathan Leiby": {
+    "source": "",
+    "medium": "",
+    "character": ""
+  },
+  "Nick Mader": "",
+  "Nihar Shah": {
+    "source": "The Lion King",
+    "medium": "Movie",
+    "character": "Scar"
+  },
+  "Paul Meinshausen": "",
+  "Rayid Ghani": "",
+  "Rob Mitchum": {
+    "source": "Rushmore",
+    "medium": "Movie",
+    "character": "Max Fisher"
+  },
+  "Samrachana Adhikari": {
+    "source": "The Little Prince",
+    "medium": "Book",
+    "character": "The Little Prince"
+  },
+  "Sarah Evans": {
+    "source": "Howl's Moving Castle",
+    "medium": "Movie",
+    "character": "Howl"
+  },
+  "Scott Alfeld": {
+    "source": "The Bible",
+    "medium": "Book",
+    "character": "God"
+  },
+  "Skyler Whorton": {
+    "source": "Les Mis",
+    "medium": "Book",
+    "character": "Inspector Javert"
+  },
+  "Sophia Alice": {
+    "source": "Catch 22",
+    "medium": "Book",
+    "character": "Yossarian"
+  },
+  "Sriram Somanchi": {
+    "source": "The Lord of the Rings",
+    "medium": "Book",
+    "character": "Legolas"
+  },
+  "Tom Plagge": {
+    "source": "Catch 22",
+    "medium": "Book",
+    "character": "Yossarian"
+  },
+  "Varoon Bashyakarla": {
+    "source": "Waiting for Godot",
+    "medium": "Play",
+    "character": "Gogo"
+  },
+  "Vidhur Vohra": "",
+  "Virginia Carlson": {
+    "source": "Sherlock Holmes",
+    "medium": "Book and TV",
+    "character": "Sherlock Holmes"
+  },
+  "Walter Dempsey": {
+    "source": "Teenage Mutant Ninja Turtles",
+    "medium": "TV",
+    "character": "Donatello"
+  },
+  "Zahra Ashktorab": {
+    "source": "The Office",
+    "medium": "TV",
+    "character": "Michael Scott"
+  }
 }
