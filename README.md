@@ -39,11 +39,48 @@ or
 
 **2) Document your name and question in this `README.md` file.
 
+How to Save and Load JSON files
+====
+
+Read from a JSON file
+
+```
+import json
+
+f = open('example.json')
+
+# Read input file to JSON. Python might explode if your JSON is poorly formatted!
+d = json.load(f)
+
+#   d ->
+#   {u'Adam Fishman': u'',
+#   ...
+#   u'Zahra Ashktorab': u''}
+```
+
+```
+import json
+
+# Create Python dictionary
+d = { "key":"value" }
+
+# Convert dictionary to JSON
+my_json = json.dumps(d)
+
+# Write JSON to file
+new_file = open('new.json', 'w')
+new_file.write(my_json)
+new_file.close()
+```
+
 Names and questions
 ====
 
 - Nathan Leiby - What is your favorite character from a book, play, movie, etc?
-- Emily Rowe - Where do you fall in your family's birth order? How many children are in your family? Someone whose answers are 2 and 3 is the second of three children.
-- <person 3> - <question(s)>
+- Jette Henderson - 1. What is your spirit animal? 2. Do you prefer to read fiction or non-fiction?
+- Emily Rowe - Where do you fall in your family's birth order (position)? How many children are in your family? Example: Someone whose position is 2 and number of children is 3 is the second of three children.
+- <person 4> - <question(s)>
 - ...
+
+
 
