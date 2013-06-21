@@ -77,6 +77,7 @@ Names and questions
 ====
 
 - Nathan Leiby - What is your favorite character from a book, play, movie, etc?
+- Jette Henderson - 1. What is your spirit animal? 2. Do you prefer to read fiction or non-fiction?
 - <person 2> - <question(s)>
 - ...
 
