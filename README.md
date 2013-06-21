@@ -77,7 +77,10 @@ Names and questions
 ====
 
 - Nathan Leiby - What is your favorite character from a book, play, movie, etc?
-- <person 2> - <question(s)>
+- Jette Henderson - 1. What is your spirit animal? 2. Do you prefer to read fiction or non-fiction?
+- Emily Rowe - Where do you fall in your family's birth order (position)? How many children are in your family? Example: Someone whose position is 2 and number of children is 3 is the second of three children.
+- Adam Fishman - What is your favorite question?
+- <person 4> - <question(s)>
 - ...
 
 
