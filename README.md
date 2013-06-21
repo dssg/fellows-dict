@@ -39,6 +39,40 @@ or
 
 **2) Document your name and question in this `README.md` file.
 
+How to Save and Load JSON files
+====
+
+Read from a JSON file
+
+```
+import json
+
+f = open('example.json')
+
+# Read input file to JSON. Python might explode if your JSON is poorly formatted!
+d = json.load(f)
+
+#   d ->
+#   {u'Adam Fishman': u'',
+#   ...
+#   u'Zahra Ashktorab': u''}
+```
+
+```
+import json
+
+# Create Python dictionary
+d = { "key":"value" }
+
+# Convert dictionary to JSON
+my_json = json.dumps(d)
+
+# Write JSON to file
+new_file = open('new.json', 'w')
+new_file.write(my_json)
+new_file.close()
+```
+
 Names and questions
 ====
 
@@ -46,4 +80,6 @@ Names and questions
 - Jette Henderson - 1. What is your spirit animal? 2. Do you prefer to read fiction or non-fiction?
 - <person 2> - <question(s)>
 - ...
+
+
 
