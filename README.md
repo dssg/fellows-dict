@@ -64,6 +64,10 @@ import json
 # Create Python dictionary
 d = { "key":"value" }
 
+# Optional: you want to sort the output alphabetically by dictionary key?
+import collections 
+d = collections.OrderedDict(sorted(d.items()))
+
 # Convert dictionary to JSON
 my_json = json.dumps(d)
 
