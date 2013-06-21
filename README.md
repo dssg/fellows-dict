@@ -29,7 +29,7 @@ or
     "question_tag1": "answer1-1",
     "question_tag2": "answer1-2",
   },
-  "name2" : : {
+  "name2" : {
     "question_tag1": "answer2-1",
     "question_tag2": "answer2-2"
   }
@@ -42,7 +42,7 @@ or
 Names and questions
 ====
 
-- <person> - <question(s)>
+- Nathan Leiby - What is your favorite character from a book, play, movie, etc?
 - <person 2> - <question(s)>
 - ...
 
