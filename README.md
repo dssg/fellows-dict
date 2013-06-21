@@ -82,6 +82,7 @@ Names and questions
 - Adam Fishman - What is your favorite question?
 - Joe Walsh - If you could do any experiment, what experiment would you do? 
 - Breanna Miller - What is your favorite pasta shape?
+- Kwang-Sung Jun - For laptop keyboard, there are weird layouts for insert, delete, home, end, page up, and page down keys. Which one do you prefer? Choices are do-not-care, six-pack, in-a-row, fn-key-with-arrow. null value was used to denote "did not ask".
 - <person 5> - <question(s)>
 - ...
 
