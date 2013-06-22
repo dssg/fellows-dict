@@ -17,7 +17,7 @@ Suggested format for the dictionary is
 {
   "name1" : "answer",
   "name2" : "answer2"
-  //etc 
+  //etc
 }
 ```
 
@@ -37,14 +37,14 @@ or
 }
 ```
 
-**2) Document your name and question in this `README.md` file.
+**2) Document your name and question in this `README.md` file.**
 
 How to Save and Load JSON files
 ====
 
 Read from a JSON file
 
-```
+```python
 import json
 
 f = open('example.json')
@@ -58,14 +58,14 @@ d = json.load(f)
 #   u'Zahra Ashktorab': u''}
 ```
 
-```
+```python
 import json
 
 # Create Python dictionary
 d = { "key":"value" }
 
 # Optional: you want to sort the output alphabetically by dictionary key?
-import collections 
+import collections
 d = collections.OrderedDict(sorted(d.items()))
 
 # Convert dictionary to JSON
@@ -84,12 +84,9 @@ Names and questions
 - Jette Henderson - 1. What is your spirit animal? 2. Do you prefer to read fiction or non-fiction?
 - Emily Rowe - Where do you fall in your family's birth order (position)? How many children are in your family? Example: Someone whose position is 2 and number of children is 3 is the second of three children.
 - Adam Fishman - What is your favorite question?
-- Joe Walsh - If you could do any experiment, what experiment would you do? 
+- Joe Walsh - If you could do any experiment, what experiment would you do?
 - Breanna Miller - What is your favorite pasta shape?
 - Kwang-Sung Jun - For laptop keyboard, there are weird layouts for insert, delete, home, end, page up, and page down keys. Which one do you prefer? Choices are do-not-care, six-pack, in-a-row, fn-key-with-arrow. null value was used to denote "did not ask".
 - Elena Eneva - 1. What's your favorite lie? 2. Extra time taken to answer the question? 1=yes, 0=no
-- <person 5> - <question(s)>
+- Chris Brown - What does Google know about your email address?
 - ...
-
-
-

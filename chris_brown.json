@@ -1,0 +1,484 @@
+{
+  "Adam Fishman": {
+    "dssg_role": "Fellow", 
+    "email": "fishman.adam@gmail.com", 
+    "facebook": "fishman.adam", 
+    "full_name": "Adam Fishman", 
+    "gender": "M", 
+    "graduate_school": "Yale"
+  }, 
+  "Ahmad Qamar": {
+    "dssg_role": "Fellow", 
+    "email": "atqamar@gmail.com", 
+    "facebook": "ahmed.qamar", 
+    "full_name": "Ahmed Tanveer Qamar", 
+    "gender": "M", 
+    "postdoc": "Argonne", 
+    "undergraduate": "University of Chicago, 2013"
+  }, 
+  "Alessandro Panella": {
+    "dssg_role": "Not in email list"
+  }, 
+  "Allen Lin": {
+    "dssg_role": "Fellow", 
+    "email": "al647@cam.ac.uk", 
+    "facebook": "theallenlin", 
+    "full_name": "Allen Lin", 
+    "gender": "M", 
+    "graduate_school": "Cambridge", 
+    "undergraduate": "MIT, 2011"
+  }, 
+  "Andrea Fernandez Conde": {
+    "dssg_role": "Fellow", 
+    "email": "andrea.fernandez.conde@gmail.com", 
+    "facebook": "feranimal", 
+    "full_name": "Andrea Fernandez Conde", 
+    "gender": "F"
+  }, 
+  "Andres Akle Carranza": {
+    "dssg_role": "Fellow", 
+    "email": "andresakle@gmail.com", 
+    "facebook": "andresakle", 
+    "full_name": "Andres Akle Carranza", 
+    "gender": "M", 
+    "graduate_school": "Instituto Tecnol\u00f3gico Aut\u00f3nomo de M\u00e9xico", 
+    "twitter": "AndresAkle"
+  }, 
+  "Aron Culotta": {
+    "dssg_role": "Unknown", 
+    "facebook": "aron.culotta", 
+    "full_name": "Aron Culotta", 
+    "gender": "M"
+  }, 
+  "Brandon Willard": {
+    "dssg_role": "Not in email list"
+  }, 
+  "Breanna Miller": {
+    "dssg_role": "Fellow", 
+    "email": "breanna.a.miller@gmail.com", 
+    "full_name": "Breanna Miller", 
+    "gender": "F", 
+    "graduate_school": "Unversity of Wisconsin"
+  }, 
+  "Camelia Simoiu": {
+    "dssg_role": "Fellow", 
+    "email": "camelia.simoiu@gmail.com", 
+    "facebook": "camelia.valentina", 
+    "full_name": "Camelia Simoiu", 
+    "gender": "F", 
+    "graduate_school": "MIT"
+  }, 
+  "Christopher Brown": {
+    "dssg_role": "Fellow", 
+    "email": "chrisbrown@utexas.edu", 
+    "facebook": "christopher.h.brown", 
+    "full_name": "Christopher Brown", 
+    "gender": "M", 
+    "github": "chbrown", 
+    "graduate_school": "University of Texas at Austin", 
+    "homepage": "http://henrian.com/", 
+    "phone": "512.522.2462 ", 
+    "photo": "http://henrian.com/img/portrait-pairing.jpg", 
+    "twitter": "chbrown", 
+    "undergraduate": "University of Dallas, 2009"
+  }, 
+  "Colm Bradley": {
+    "dssg_role": "Not in email list"
+  }, 
+  "Danial Lashkari": {
+    "dssg_role": "Fellow", 
+    "email": "lashkari@fas.harvard.edu", 
+    "facebook": "lashkaridanial", 
+    "full_name": "Danial Lashkari", 
+    "gender": "M", 
+    "graduate_school": "MIT", 
+    "homepage": "http://people.csail.mit.edu/danial/Site/Danials_Homepage.html", 
+    "photo": "http://people.csail.mit.edu/danial/Site/Danials_Homepage_files/Mypic.jpg", 
+    "postdoc": "MIT", 
+    "undergraduate": "University of Tehran"
+  }, 
+  "David Sekora": {
+    "dssg_role": "Not in email list"
+  }, 
+  "Dean Malmgren": {
+    "dssg_role": "Mentor", 
+    "email": "dean.malmgren@datascopeanalytics.com", 
+    "facebook": "dean.malmgren", 
+    "full_name": "Dean Malmgren", 
+    "gender": "M"
+  }, 
+  "Edward McFowland III": {
+    "dssg_role": "Fellow", 
+    "email": "mcfowland@cmu.edu", 
+    "facebook": "edward.mcfowland.iii", 
+    "full_name": "Edward McFowland III", 
+    "gender": "M", 
+    "graduate_school": "CMU", 
+    "homepage": "http://www.andrew.cmu.edu/user/emcfowla/", 
+    "photo": "http://www.andrew.cmu.edu/user/emcfowla/Home_files/shapeimage_1.jpg"
+  }, 
+  "Edward Su": {
+    "dssg_role": "Fellow", 
+    "email": "edwardsu@mit.edu", 
+    "facebook": "edwardsu", 
+    "full_name": "Edward Su", 
+    "gender": "M", 
+    "graduate_school": "MIT", 
+    "homepage": "http://cuaweb.mit.edu/pages/person/page.aspx?personid=1767", 
+    "photo": "http://cuaweb.mit.edu/Pages/Person/GetPhoto.aspx?PersonId=1767", 
+    "undergraduate": "Harvard"
+  }, 
+  "Elena Eneva": {
+    "dssg_role": "Not in email list"
+  }, 
+  "Emily Rowe": {
+    "dssg_role": "Fellow", 
+    "email": "erowe@uchicago.edu", 
+    "facebook": "eprowe", 
+    "full_name": "Emily Rowe", 
+    "gender": "F", 
+    "graduate_school": "University of Chicago", 
+    "homepage": "http://harrisschool.uchicago.edu/directory/students/emily_rowe", 
+    "photo": "http://harrisschool.uchicago.edu/sites/default/files/imagecache/profile_pic_large/images/profile-pics/students/rowe.emily%202.jpg"
+  }, 
+  "Evan Misshula": {
+    "birthdate": "1966-04-14", 
+    "dssg_role": "Fellow", 
+    "email": "emisshula@jjay.cuny.edu", 
+    "facebook": "evan.misshula", 
+    "full_name": "Evan Misshula", 
+    "gender": "M", 
+    "graduate_school": "CUNY", 
+    "homepage": "http://commons.gc.cuny.edu/members/emisshula/", 
+    "undergraduate": "Yale, 1988"
+  }, 
+  "Forest Gregg": {
+    "dssg_role": "Mentor", 
+    "email": "fgregg@gmail.com", 
+    "full_name": "Forest Gregg", 
+    "github": "fgregg", 
+    "graduate_school": "University of Chicago", 
+    "homepage": "http://bunkum.us/"
+  }, 
+  "Giorgio Cavaggion": {
+    "dssg_role": "Fellow", 
+    "email": "giorgio.cavaggion@gmail.com", 
+    "facebook": "johnthebyronichero", 
+    "full_name": "Giorgio Cavaggion", 
+    "gender": "M", 
+    "graduate_school": "University of Illinois-Chicago", 
+    "undergraduate": "Politecnico di Milano"
+  }, 
+  "Hunter Owens": {
+    "dssg_role": "Not in email list"
+  }, 
+  "Jette Henderson": {
+    "dssg_role": "Fellow", 
+    "email": "jette.henderson@gmail.com", 
+    "facebook": "jette.henderson", 
+    "full_name": "Jette Henderson", 
+    "gender": "F", 
+    "graduate_school": "University of Texas at Austin"
+  }, 
+  "Jit Nandi": {
+    "dssg_role": "Fellow", 
+    "email": "mnandi@andrew.cmu.edu", 
+    "full_name": "Manojit (Jit) Nandi", 
+    "gender": "M", 
+    "graduate_school": "CMU", 
+    "photo": "http://www.cmu.edu/c-cm/profiles/photos/jit-nandi.jpg"
+  }, 
+  "John Brock": {
+    "birthdate": "1984-05-15", 
+    "dssg_role": "Fellow", 
+    "email": "jhbrock@uci.edu", 
+    "facebook": "JohnHBrock", 
+    "full_name": "John H. Brock", 
+    "gender": "M", 
+    "graduate_school": "UC Irvine", 
+    "homepage": "http://www.ics.uci.edu/~jhbrock/", 
+    "photo": "http://www.ics.uci.edu/~jhbrock/me.jpg", 
+    "undergraduate": "Boston"
+  }, 
+  "Jonathan Auerbach": {
+    "birthdate": "1988-03-17", 
+    "dssg_role": "Fellow", 
+    "email": "jonathanlauerbach@gmail.com", 
+    "facebook": "jon.auerbach.9", 
+    "full_name": "Jon Auerbach", 
+    "gender": "M", 
+    "graduate_school": "Cornell", 
+    "undergraduate": "Columbia"
+  }, 
+  "Jordan Bates": {
+    "birthdate": "1986-08-20", 
+    "dssg_role": "Fellow", 
+    "email": "jtbates@gmail.com", 
+    "facebook": "jtbates", 
+    "full_name": "Jordan T Bates", 
+    "gender": "M", 
+    "graduate_school": "ASU", 
+    "phone": "(812) 987-1199", 
+    "undergraduate": "Purdue"
+  }, 
+  "Jordan Freud": {
+    "dssg_role": "Not in email list"
+  }, 
+  "Joseph Walsh": {
+    "dssg_role": "Fellow", 
+    "email": "jtwalsh@crimson.ua.edu", 
+    "full_name": "Joseph T. Walsh", 
+    "gender": "M", 
+    "graduate_school": "University of Alabama"
+  }, 
+  "Juan-Pablo Velez": {
+    "dssg_role": "Mentor", 
+    "email": "jpvelez@gmail.com", 
+    "facebook": "juan.velez5", 
+    "full_name": "Juan-Pablo Velez", 
+    "gender": "M", 
+    "phone": "(312) 218-5448", 
+    "undergraduate": "UChicago, 2009"
+  }, 
+  "Kate Kusiak Galvin": {
+    "dssg_role": "Mentor", 
+    "email": "katekusiak@uchicago.edu", 
+    "full_name": "Kate Kusiak Galvin", 
+    "gender": "F"
+  }, 
+  "Kayla Jacobs": {
+    "dssg_role": "Fellow", 
+    "email": "kayla@alum.mit.edu", 
+    "facebook": "kaylajacobs", 
+    "full_name": "Kayla Jacobs", 
+    "gender": "F", 
+    "graduate_school": "Technion", 
+    "homepage": "http://web.mit.edu/kayla/www/", 
+    "photo": "http://web.mit.edu/kayla/www/kayla.jpg", 
+    "undergraduate": "MIT"
+  }, 
+  "Kwang-Sung Jun": {
+    "birthdate": "????-02-23", 
+    "dssg_role": "Fellow", 
+    "email": "deltakam@cs.wisc.edu", 
+    "facebook": "deltakam", 
+    "full_name": "Kwang-Sung Jun", 
+    "gender": "M", 
+    "graduate_school": "Unversity of Wisconsin", 
+    "homepage": "http://pages.cs.wisc.edu/~deltakam/", 
+    "photo": "http://pages.cs.wisc.edu/~pubs/pictures/gradstudents/deltakam.jpg"
+  }, 
+  "Kyla Cheung": {
+    "birthdate": "1991-07-16", 
+    "dssg_role": "Fellow", 
+    "email": "kylaycheung@gmail.com", 
+    "facebook": "kyla.cheung.1", 
+    "full_name": "Kyla Cheung", 
+    "gender": "F", 
+    "graduate_school": "Columbia", 
+    "twitter": "KylaCheung"
+  }, 
+  "Matt Gee": {
+    "birthdate": "1981-06-01", 
+    "dssg_role": "Mentor", 
+    "email": "mattgee@gmail.com", 
+    "facebook": "matthew.gee.967", 
+    "full_name": "Matthew Gee", 
+    "gender": "M", 
+    "graduate_school": "University of Chicago", 
+    "undergraduate": "BYU"
+  }, 
+  "Michelangelo D'Agostino": {
+    "dssg_role": "Mentor", 
+    "email": "mdagost@gmail.com", 
+    "facebook": "michelangelo.dagostino.5", 
+    "full_name": "Michelangelo D'Agostino", 
+    "gender": "M", 
+    "graduate_school": "Berkeley", 
+    "undergraduate": "Harvard"
+  }, 
+  "Min Xu": {
+    "dssg_role": "Fellow", 
+    "email": "minx@cs.cmu.edu", 
+    "facebook": "min.xu", 
+    "full_name": "Min Xu", 
+    "gender": "M", 
+    "graduate_school": "CMU", 
+    "homepage": "http://www.cs.cmu.edu/~minx/", 
+    "photo": "http://www.cs.cmu.edu/~minx/images/egypt168.jpg", 
+    "undergraduate": "Berkeley"
+  }, 
+  "Nathan Leiby": {
+    "dssg_role": "Fellow", 
+    "email": "nathanleiby@gmail.com", 
+    "facebook": "nathan.leiby", 
+    "full_name": "Nathan Leiby", 
+    "gender": "M", 
+    "graduate_school": "Harvard", 
+    "undergraduate": "University of Botswana"
+  }, 
+  "Nick Mader": {
+    "birthdate": "????-10-20", 
+    "dssg_role": "Mentor", 
+    "facebook": "nicholas.mader", 
+    "full_name": "Nicholas Mader", 
+    "gender": "M", 
+    "graduate_school": "Wisconsin", 
+    "homepage": "http://www.myspace.com/bigmouthcoop", 
+    "postdoc": "University of Chicago", 
+    "undergraduate": "Wesleyan"
+  }, 
+  "Nihar Shah": {
+    "dssg_role": "Fellow", 
+    "email": "nshah@fas.harvard.edu", 
+    "facebook": "nihar.shah.357", 
+    "full_name": "Nihar Shah", 
+    "gender": "M", 
+    "graduate_school": "Harvard", 
+    "undergraduate": "Bellarmine College Prep, 2011"
+  }, 
+  "Paul Meinshausen": {
+    "dssg_role": "Fellow", 
+    "email": "meinshap@gmail.com", 
+    "facebook": "paul.meinshausen.7", 
+    "full_name": "Paul Meinshausen", 
+    "gender": "M", 
+    "graduate_school": "University of Louisville", 
+    "undergraduate": "Middle East Technical University"
+  }, 
+  "Rayid Ghani": {
+    "birthdate": "1977-11-13", 
+    "dssg_role": "Mentor", 
+    "email": "rayid@ci.uchicago.edu", 
+    "facebook": "rayid", 
+    "full_name": "Rayid Ghani", 
+    "gender": "M", 
+    "graduate_school": "CMU", 
+    "homepage": "http://www.rayidghani.com/", 
+    "undergraduate": "Sewanee, 2001"
+  }, 
+  "Rob Mitchum": {
+    "birthdate": "1979-07-15", 
+    "dssg_role": "Unknown", 
+    "facebook": "rob.mitchum.35", 
+    "full_name": "Rob Mitchum", 
+    "gender": "M", 
+    "graduate_school": "University of Chicago", 
+    "undergraduate": "Michigan"
+  }, 
+  "Samrachana Adhikari": {
+    "dssg_role": "Fellow", 
+    "email": "asam.cmu@gmail.com", 
+    "facebook": "samrachana.adhikari", 
+    "full_name": "Samrachana Adhikari", 
+    "gender": "F", 
+    "graduate_school": "CMU", 
+    "homepage": "http://www.stat.cmu.edu/~asamrach/", 
+    "undergraduate": "Holyoke, 2011"
+  }, 
+  "Sarah Evans": {
+    "birthdate": "1991-11-28", 
+    "dssg_role": "Fellow", 
+    "email": "sevans1@stanford.edu", 
+    "facebook": "sarahtbarah", 
+    "full_name": "Sarah Evans", 
+    "gender": "F", 
+    "homepage": "http://tltl.stanford.edu/people/alumni/sarah-evans", 
+    "photo": "http://tltl.stanford.edu/sites/default/files/IMG_5328.jpg", 
+    "undergraduate": "Stanford, 2014"
+  }, 
+  "Scott Alfeld": {
+    "dssg_role": "Fellow", 
+    "email": "salfeld@cs.wisc.edu", 
+    "facebook": "scott.alfeld", 
+    "full_name": "Scott Alfeld", 
+    "gender": "M", 
+    "graduate_school": "Unversity of Wisconsin", 
+    "homepage": "http://www.cs.wisc.edu/users/salfeld", 
+    "photo": "http://www.cs.wisc.edu/sites/default/files/pictures/user/picture-6561.jpg", 
+    "undergraduate": "Utah"
+  }, 
+  "Skyler Whorton": {
+    "dssg_role": "Fellow", 
+    "email": "skyler.whorton@gmail.com", 
+    "facebook": "skyler.whorton", 
+    "full_name": "Skyler B. Whorton", 
+    "gender": "M", 
+    "graduate_school": "Worcester Polytechnic Institute", 
+    "homepage": "http://users.wpi.edu/~swhorton/resume.html"
+  }, 
+  "Sophia Alice": {
+    "birthdate": "1990-04-12", 
+    "dssg_role": "Fellow", 
+    "email": "sophiaalice@uchicago.edu", 
+    "facebook": "sophia.alice.412", 
+    "full_name": "Sophia Alice", 
+    "gender": "F", 
+    "graduate_school": "University of Chicago", 
+    "homepage": "http://cpost.uchicago.edu/targeting_logic_suicide.php"
+  }, 
+  "Sriram Somanchi": {
+    "dssg_role": "Unknown", 
+    "email": "somanchi@cmu.edu", 
+    "facebook": "ssomanchi", 
+    "full_name": "Sriram Somanchi", 
+    "gender": "M", 
+    "graduate_school": "CMU"
+  }, 
+  "Tom Plagge": {
+    "birthdate": "1979-08-01", 
+    "dssg_role": "Mentor", 
+    "email": "tplagge@gmail.com", 
+    "facebook": "tplagge", 
+    "full_name": "Tom Plagge", 
+    "gender": "M", 
+    "graduate_school": "Berkeley", 
+    "postdoc": "University of Chicago", 
+    "undergraduate": "Iowa"
+  }, 
+  "Varoon Bashyakarla": {
+    "dssg_role": "Fellow", 
+    "email": "vbashyakarla@gmail.com", 
+    "facebook": "vbashyakarla", 
+    "full_name": "Varoon Bashyakarla", 
+    "gender": "M", 
+    "graduate_school": "Yale", 
+    "undergraduate": "MIT"
+  }, 
+  "Vidhur Vohra": {
+    "dssg_role": "Fellow", 
+    "email": "vvohra@gatech.edu", 
+    "facebook": "vidhurvohra", 
+    "full_name": "Vidhur Vohra", 
+    "gender": "M", 
+    "github": "darkzeroman", 
+    "graduate_school": "Georgia Institute of Technology", 
+    "homepage": "http://blog.vvohra.com/"
+  }, 
+  "Virginia Carlson": {
+    "dssg_role": "Mentor", 
+    "facebook": "virginia.l.carlson", 
+    "full_name": "Virginia Carlson", 
+    "gender": "F"
+  }, 
+  "Walter Dempsey": {
+    "dssg_role": "Fellow", 
+    "email": "dempsey.walter@gmail.com", 
+    "facebook": "walter.dempsey.1", 
+    "full_name": "Walter Dempsey", 
+    "gender": "M", 
+    "graduate_school": "University of Chicago"
+  }, 
+  "Zach Seeskin": {
+    "dssg_role": "Not in email list"
+  }, 
+  "Zahra Ashktorab": {
+    "dssg_role": "Fellow", 
+    "email": "zashktorab@gmail.com", 
+    "facebook": "parniaz", 
+    "full_name": "Parnia (Zahra) Ashktorab", 
+    "gender": "F", 
+    "graduate_school": "University of Maryland", 
+    "phone": "1.301787101"
+  }
+}
